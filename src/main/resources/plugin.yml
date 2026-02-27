@@ -1,0 +1,6 @@
+name: CustomJoin
+version: 1.0
+main: org.customjoin.customJoin.CustomJoin
+api-version: 1.21
+author: Isax
+description: Plugin de messages de join personnalisés (Paper 1.21)

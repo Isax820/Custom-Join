@@ -1,0 +1,13 @@
+join-message: "<green>[+]</green> <white>%player%</white> <green>a rejoint le serveur !</green>"
+leave-message: "<red>[-]</red> <white>%player%</white> <red>a quitté le serveur !</red>"
+
+title-on-join: true
+
+title:
+  main: "<green>Bienvenue <white>%player%</white> !</green>"
+  sub: "<gray>Amuse-toi bien sur le serveur</gray>"
+
+title-times:
+  fade-in: 10
+  stay: 70
+  fade-out: 20
