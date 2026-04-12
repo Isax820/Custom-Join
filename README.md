@@ -1,3 +1,15 @@
+# ❌ Project Archived
+
+👋 Hello everyone ! This project is **archived** !
+
+👉 To **continue to use** *Custom Join*, use [this source code to countinue](https://github.com/Isax820/Custom-Join)
+
+🥹 I'm sorry !
+
+---
+
+# 💻 Platforms
+
 [![Paper](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/paper_vector.svg)](https://papermc.io)
 [![Purpur](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/purpur_vector.svg)](https://purpurmc.org)
 [![Bukkit](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/bukkit_vector.svg)](https://dev.bukkit.org/)
